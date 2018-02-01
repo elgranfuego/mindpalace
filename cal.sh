@@ -2,7 +2,7 @@
 op=1
 while [ $op -eq 1 ]
 do
-echo -e "Menu \n 1. Addition \n 2.Subtraction \n 3.Multiplication \n 4. Division \n Enter choice"
+echo -e "Menu \n 1. Addition \n 2.Subtraction \n 3.Multiplication \n 4. Division \n 5.Exponentiation \n Enter choice"
 read ch
 echo "Enter value for a"
 read a
